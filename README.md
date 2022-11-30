@@ -58,5 +58,5 @@ Testing, project presentation (readme, report files)
 - Le Tran Trong Hung
 - Truong Phu Khang
 - Bui Thanh Huy 
-- Nguyen Trung Duc
+- Nguyen Trung Duc (me :kissing_smiling_eyes:)
 - Nguyen Quoc Hoang
